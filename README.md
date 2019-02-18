@@ -11,7 +11,7 @@ This is a sample application for the verification laboratory.
 Clone the repository and execute Gradle to build the application:
 
 ```
-./gradlew build
+./gradlew build This WILL cause merge confilct
 ```
 
 To compile and run tests also execute:
