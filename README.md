@@ -10,9 +10,6 @@ This is a sample application for the verification laboratory.
 
 Clone the repository and execute Gradle to build the application:
 
-```
-./gradlew build This won't cause a conflict
-```
 
 To compile and run tests also execute:
 
